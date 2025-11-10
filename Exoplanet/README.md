@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Exoplanet KeplerAI
+# 🌟 ExoKeplerAI
 
 ### AI-Powered Exoplanet Detection System
 
